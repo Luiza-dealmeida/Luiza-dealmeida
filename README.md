@@ -1,4 +1,4 @@
-### Oii! Eu sou a Luiza De Almeida, desenvolvedora front-end 👋
+### Oii! Eu sou a Luiza De Almeida, desenvolvedora front-end 🤓
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgzcGYzMmtyOW1rYjNkdzQ3ODJpYm1pOXZvYWJvYWZxczFvdjU2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cpqAGiEPnNYahqX2lH/giphy.gif" width="300"/>
